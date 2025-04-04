@@ -46,10 +46,14 @@ class Fraction:
 if __name__ == "__main__":
     fr1 = Fraction(2, 3)
     fr2 = Fraction(4, 5)
-#gggg
+
     print("Fraction 1:", fr1)
     print("Fraction 2:", fr2)
     print("Addition:", fr1 + fr2)
     print("Subtraction:", fr1 - fr2)
     print("Multiplication:", fr1 * fr2)
     print("Division:", fr1 / fr2)
+
+
+
+# test 1 push
